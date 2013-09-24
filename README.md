@@ -11,11 +11,12 @@ Tools and Technologies Used
 
 Amazon EC2: I wanted to give the client a wireframe of the design in an environment that was not local. Using an Amazon EC2 instance allowed me show them a live preview as I made changes on the fly.
 
-          
+#### Other ####          
 * Chrome DevTools
  * Spoofer & Resolution Test plugins to test responsiveness
 * HTML5
 * Emacs text editor
+* Google Analytics & Webmaster Tools
           
           
 
