@@ -7,6 +7,8 @@ A business advisory firm based out of Omaha, Nebraska needed a responsive websit
 
 Tools
 ------------------------------------
+Technologies Used <img src="http://www.trenovis.de/UserFiles/Image/google-analytics-logo11(1).png" align="right">
+
 Sponsored by <a href="http://www.jetbrains.com/pycharm/" alt="Download PyCharm">
   <img src="http://www.trenovis.de/UserFiles/Image/google-analytics-logo11(1).png">
 </a>
